@@ -1,1 +1,2 @@
 linuxserver/calibre-web
+linuxserver/calibre
