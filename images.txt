@@ -1,3 +1,11 @@
-linuxserver/calibre-web
-linuxserver/calibre
-itzg/minecraft-bedrock-server:2024.5.0
+python
+ubuntu
+nginx
+busybox
+hello-world
+registry
+docker
+mysql
+itzg/minecraft-server
+pihole/pihole
+lacledeslan/gamesvr-minecraft:bedrock
