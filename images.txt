@@ -1,2 +1,3 @@
 linuxserver/calibre-web
 linuxserver/calibre
+itzg/minecraft-bedrock-server:2024.5.0
