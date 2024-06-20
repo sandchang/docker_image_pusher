@@ -9,3 +9,4 @@ mysql
 itzg/minecraft-server
 pihole/pihole
 lacledeslan/gamesvr-minecraft:bedrock
+marctv/minecraft-bedrock-server:1.21.1.03
